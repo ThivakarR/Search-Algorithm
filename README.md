@@ -105,7 +105,6 @@ else:
 
 ```
 ## Sample Input and Output
-##Output
 ![Screenshot 2023-06-11 180739](https://github.com/ThivakarR/Search-Algorithm/assets/118707074/9263b453-0131-44d6-ad06-9db227f7b0c9)
 
 ![Screenshot 2023-06-11 180900](https://github.com/ThivakarR/Search-Algorithm/assets/118707074/1ccf854b-79fe-4a20-92d4-547bea6319f0)
